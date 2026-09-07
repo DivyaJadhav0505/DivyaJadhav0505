@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Divya Jadhav 👋
 
-<!--
-**DivyaJadhav0505/DivyaJadhav0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Python & Machine Learning
 
-Here are some ideas to get you started:
+I am a BCA graduate currently pursuing an MCA, passionate about technology, programming, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently strengthening my skills in Python, Machine Learning, SQL, and Web Development while building practical projects.
+
+## 🛠️ Skills & Technologies
+
+**Programming Languages:**  
+C, C++, Python, JavaScript
+
+**Data Analysis:**  
+SQL, Pandas, NumPy
+
+**Web Technologies:**  
+HTML, CSS
+
+**Machine Learning:**  
+Machine Learning Fundamentals
