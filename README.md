@@ -19,3 +19,5 @@ HTML, CSS
 
 **Machine Learning:**  
 Machine Learning Fundamentals
+
+[LinkedIn](https://www.linkedin.com/in/divya-jadhav-398212345)
